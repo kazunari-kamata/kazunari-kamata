@@ -1,0 +1,44 @@
+name: Generate Contribution Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 18 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: kazunari-kamata
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publish generated SVG to output branch
+        run: |
+          mkdir -p /tmp/snake-output
+          cp dist/* /tmp/snake-output/
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git switch --orphan output
+          git rm -rf . || true
+
+          cp /tmp/snake-output/* .
+          touch .nojekyll
+
+          git add .
+          git commit -m "Generate contribution snake" || exit 0
+          git push -f origin output
