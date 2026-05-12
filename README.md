@@ -21,3 +21,15 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazunari-kamata&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kazunari-kamata&layout=compact)
+
+## GitHub Trophy
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kazunari-kamata&theme=flat&column=6&margin-w=8&margin-h=8&no-frame=true)
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kazunari-kamata/kazunari-kamata/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kazunari-kamata/kazunari-kamata/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kazunari-kamata/kazunari-kamata/output/github-snake.svg" />
+</picture>
