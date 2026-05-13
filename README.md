@@ -8,13 +8,43 @@
 
 インフラ運用、EOL対応、基盤更改、検証、運用改善を中心に、実務課題を意識したツールやドキュメントを公開しています。
 
-## Featured Project
+## Featured Projects
+
+### Infra Lifecycle Portal
 
 [![Infra Lifecycle Portal](https://github-readme-stats.vercel.app/api/pin/?username=kazunari-kamata&repo=infra-lifecycle-portal)](https://github.com/kazunari-kamata/infra-lifecycle-portal)
 
+インフラ資産のEOLリスク、移行優先度、検証観点、ロールバック手順を整理するための軽量なライフサイクル管理ツールです。
+
+### Portfolio Site
+
+[![Portfolio Site](https://github-readme-stats.vercel.app/api/pin/?username=kazunari-kamata&repo=kazunari-kamata.github.io)](https://github.com/kazunari-kamata/kazunari-kamata.github.io)
+
+公開リポジトリや技術的な取り組みを整理して掲載するGitHub Pagesサイトです。
+
 ## Skills
 
-![Skills](https://skillicons.dev/icons?i=linux,python,fastapi,typescript,react,docker,githubactions,git)
+### Infrastructure / Operations
+
+![Infrastructure Skills](https://skillicons.dev/icons?i=linux,bash,docker,nginx,gcp,githubactions,git)
+
+### Backend / Automation
+
+![Backend Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,mysql)
+
+### Frontend / Documentation
+
+![Frontend Skills](https://skillicons.dev/icons?i=typescript,react,html,css,md,vim)
+
+### Focus Areas
+
+- インフラ運用
+- EOL対応
+- 基盤更改
+- 運用改善
+- 検証観点整理
+- Runbook整備
+- GitHub Actions による自動化
 
 ## GitHub Stats
 
