@@ -18,9 +18,23 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazunari-kamata&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazunari-kamata&show_icons=true&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kazunari-kamata&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kazunari-kamata&layout=compact&langs_count=8&custom_title=Top%20Languages)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kazunari-kamata)
+
+## Profile Summary
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kazunari-kamata&theme=github)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kazunari-kamata&theme=github)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kazunari-kamata&theme=github)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kazunari-kamata&theme=github)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kazunari-kamata&theme=github&utcOffset=9)
 
 ## GitHub Trophy
 
