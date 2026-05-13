@@ -6,7 +6,7 @@
 [![DevOps](https://img.shields.io/badge/Focus-DevOps-0F766E)](#)
 [![EOL](https://img.shields.io/badge/Focus-EOL%20Planning-B45309)](#)
 
-インフラ運用、EOL対応、基盤更改、検証、運用改善を中心に、実務課題を意識したツールやドキュメントを公開しています。
+インフラ運用、EOL対応、基盤更改、クラウド移行、運用改善に関する実務的なツール、検証記録、ドキュメントをまとめたプロフィールリポジトリです。
 
 ## Featured Projects
 
