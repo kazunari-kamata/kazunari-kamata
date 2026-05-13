@@ -24,23 +24,40 @@
 
 ## Skills
 
-### Infrastructure / Operations
+### Infrastructure / OS Operations
 
-![Infrastructure Skills](https://skillicons.dev/icons?i=linux,bash,docker,nginx,gcp,githubactions,git)
+![Infrastructure Skills](https://skillicons.dev/icons?i=linux,bash,powershell,nginx,git,githubactions)
 
-### Backend / Automation
+Linux / Unix 系 OS、ネットワーク、DNS、VPN、プロキシ、パッケージ管理、仮想化、運用手順化を中心に扱っています。
 
-![Backend Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,mysql)
+### Cloud / Platform
 
-### Frontend / Documentation
+![Cloud Skills](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible)
 
-![Frontend Skills](https://skillicons.dev/icons?i=typescript,react,html,css,md,vim)
+AWS、Azure、Google Cloud、Docker、Kubernetes、Terraform、Ansible などを使った基盤検証・構築・運用改善に取り組んでいます。
+
+### Backend / Automation / Data
+
+![Backend Skills](https://skillicons.dev/icons?i=python,go,rust,nodejs,postgres,mysql,sqlite)
+
+Python、Go、Rust、Node.js、シェルスクリプト、データベース、API 連携を用いた自動化や検証ツールを扱っています。
+
+### Frontend / Documentation / Tooling
+
+![Frontend Skills](https://skillicons.dev/icons?i=typescript,react,vue,html,css,md,vim)
+
+TypeScript、React、Vue、HTML/CSS、Markdown によるドキュメント整備、ポートフォリオ、軽量な管理 UI を作成しています。
 
 ### Focus Areas
 
 - インフラ運用
 - EOL対応
 - 基盤更改
+- クラウド移行・検証
+- コンテナ基盤
+- IaC / 構成管理
+- ネットワーク / DNS / VPN
+- セキュリティ・認証まわり
 - 運用改善
 - 検証観点整理
 - Runbook整備
