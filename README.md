@@ -22,6 +22,12 @@
 
 Go ソースコードを Rust ソースコードの雛形へ変換する Rust 製 CLI です。完全変換ではなく、対応済み構文の初期変換と未対応構文の TODO コメント出力を目的にしています。
 
+### go2rust-cli-samples
+
+[![go2rust-cli-samples](https://github-readme-stats.vercel.app/api/pin/?username=kazunari-kamata&repo=go2rust-cli-samples)](https://github.com/kazunari-kamata/go2rust-cli-samples)
+
+`go2rust-cli` の変換入力として使う Go サンプル集です。対応済み構文と未対応構文の出力を確認しやすい小さな Go ファイルを管理しています。
+
 ### Portfolio Site
 
 [![Portfolio Site](https://github-readme-stats.vercel.app/api/pin/?username=kazunari-kamata&repo=kazunari-kamata.github.io)](https://github.com/kazunari-kamata/kazunari-kamata.github.io)
