@@ -6,8 +6,9 @@
 [![DevOps](https://img.shields.io/badge/Focus-DevOps-0F766E)](#)
 [![EOL](https://img.shields.io/badge/Focus-EOL%20Planning-B45309)](#)
 [![Internal IT](https://img.shields.io/badge/Focus-Internal%20IT-7C3AED)](#)
+[![Windows Ops](https://img.shields.io/badge/Focus-Windows%20Ops-0078D4)](#)
 
-インフラ運用、EOL対応、基盤更改、クラウド移行、社内SE業務、運用改善に関する実務的なツール、検証記録、ドキュメントをまとめたプロフィールリポジトリです。
+インフラ運用、EOL対応、基盤更改、クラウド移行、Windows端末運用、社内SE業務、運用改善に関する実務的なツール、検証記録、ドキュメントをまとめたプロフィールリポジトリです。
 
 ## Featured Projects
 
@@ -47,7 +48,13 @@ Go ソースコードを Rust ソースコードの雛形へ変換する Rust �
 
 ![Infrastructure Skills](https://skillicons.dev/icons?i=linux,bash,powershell,nginx,git,githubactions)
 
-Linux / Unix 系 OS、ネットワーク、DNS、VPN、プロキシ、パッケージ管理、仮想化、運用手順化を中心に扱っています。
+Linux / Unix 系 OS、Windows、ネットワーク、DNS、VPN、プロキシ、パッケージ管理、仮想化、運用手順化を中心に扱っています。
+
+### Windows / Endpoint Operations
+
+![Windows Skills](https://skillicons.dev/icons?i=windows,powershell,azure)
+
+Windows 端末の基本運用、PowerShell / CMD による確認・自動化、winget / Chocolatey / Scoop などのパッケージ管理、WSL / Hyper-V まわりの検証、Intune / Entra ID を前提にした端末登録・権限整理、時刻同期や Sysprep を含む端末ライフサイクルの観点を扱っています。
 
 ### Cloud / Platform
 
@@ -70,6 +77,11 @@ TypeScript、React、Vue、HTML/CSS、Markdown によるドキュメント整備
 ### Focus Areas
 
 - インフラ運用
+- Windows端末運用
+- PowerShell / CMD による運用自動化
+- winget / Chocolatey / Scoop によるパッケージ管理
+- WSL / Hyper-V 検証
+- Intune / Entra ID 端末管理
 - EOL対応
 - 基盤更改
 - クラウド移行・検証
