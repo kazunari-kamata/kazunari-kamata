@@ -5,8 +5,9 @@
 [![Infrastructure](https://img.shields.io/badge/Focus-Infrastructure%20Operation-2563EB)](#)
 [![DevOps](https://img.shields.io/badge/Focus-DevOps-0F766E)](#)
 [![EOL](https://img.shields.io/badge/Focus-EOL%20Planning-B45309)](#)
+[![Internal IT](https://img.shields.io/badge/Focus-Internal%20IT-7C3AED)](#)
 
-インフラ運用、EOL対応、基盤更改、クラウド移行、運用改善に関する実務的なツール、検証記録、ドキュメントをまとめたプロフィールリポジトリです。
+インフラ運用、EOL対応、基盤更改、クラウド移行、社内SE業務、運用改善に関する実務的なツール、検証記録、ドキュメントをまとめたプロフィールリポジトリです。
 
 ## Featured Projects
 
@@ -15,6 +16,12 @@
 [![Infra Lifecycle Portal](https://github-readme-stats.vercel.app/api/pin/?username=kazunari-kamata&repo=infra-lifecycle-portal)](https://github.com/kazunari-kamata/infra-lifecycle-portal)
 
 インフラ資産のEOLリスク、移行優先度、検証観点、ロールバック手順を整理するための軽量なライフサイクル管理ツールです。
+
+### internal-se-ops-kit
+
+[![internal-se-ops-kit](https://github-readme-stats.vercel.app/api/pin/?username=kazunari-kamata&repo=internal-se-ops-kit)](https://github.com/kazunari-kamata/internal-se-ops-kit)
+
+社内SE業務で発生しやすい入退社、アカウント管理、端末管理、インシデント対応、変更申請を整理するための運用テンプレート集です。
 
 ### go2rust-cli
 
@@ -70,6 +77,7 @@ TypeScript、React、Vue、HTML/CSS、Markdown によるドキュメント整備
 - IaC / 構成管理
 - ネットワーク / DNS / VPN
 - セキュリティ・認証まわり
+- 社内SE業務テンプレート
 - 運用改善
 - 検証観点整理
 - Runbook整備
