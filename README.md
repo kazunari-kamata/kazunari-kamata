@@ -7,8 +7,9 @@
 [![EOL](https://img.shields.io/badge/Focus-EOL%20Planning-B45309)](#)
 [![Internal IT](https://img.shields.io/badge/Focus-Internal%20IT-7C3AED)](#)
 [![Windows Ops](https://img.shields.io/badge/Focus-Windows%20Ops-0078D4)](#)
+[![Legacy Web](https://img.shields.io/badge/Focus-Legacy%20Web%20Ops-4F5B93)](#)
 
-インフラ運用、EOL対応、基盤更改、クラウド移行、Windows端末運用、社内SE業務、運用改善に関する実務的なツール、検証記録、ドキュメントをまとめたプロフィールリポジトリです。
+インフラ運用、EOL対応、基盤更改、クラウド移行、Windows端末運用、レガシーWebシステム保守、社内SE業務、運用改善に関する実務的なツール、検証記録、ドキュメントをまとめたプロフィールリポジトリです。
 
 ## Featured Projects
 
@@ -64,9 +65,15 @@ AWS、Azure、Google Cloud、Docker、Kubernetes、Terraform、Ansible などを
 
 ### Backend / Automation / Data
 
-![Backend Skills](https://skillicons.dev/icons?i=python,go,rust,nodejs,postgres,mysql,sqlite)
+![Backend Skills](https://skillicons.dev/icons?i=python,go,rust,nodejs,php,perl,postgres,mysql,sqlite)
 
-Python、Go、Rust、Node.js、シェルスクリプト、データベース、API 連携を用いた自動化や検証ツールを扱っています。
+Python、Go、Rust、Node.js、PHP、Perl、シェルスクリプト、データベース、API 連携を用いた自動化や検証ツールを扱っています。
+
+### Legacy Web / CMS Operations
+
+![Legacy Web Skills](https://skillicons.dev/icons?i=php,perl,wordpress)
+
+PHP / Perl ベースの既存Webシステム、CMS、フレームワーク、テンプレートエンジン、依存関係管理、テスト整備を運用・保守の観点で扱っています。Composer / PHPUnit、CakePHP、CodeIgniter、WordPress、Drupal、Smarty、CPAN / cpanm、Catalyst、PerlMagick など、古い構成を含む環境の調査、更新計画、移行時の確認観点を整理しています。
 
 ### Frontend / Documentation / Tooling
 
@@ -87,6 +94,10 @@ TypeScript、React、Vue、HTML/CSS、Markdown によるドキュメント整備
 - クラウド移行・検証
 - コンテナ基盤
 - IaC / 構成管理
+- PHP / Perl 既存システム保守
+- Composer / PHPUnit / CPAN まわりの依存関係整理
+- WordPress / Drupal などの CMS 運用
+- CakePHP / CodeIgniter などのフレームワーク調査
 - ネットワーク / DNS / VPN
 - セキュリティ・認証まわり
 - 社内SE業務テンプレート
