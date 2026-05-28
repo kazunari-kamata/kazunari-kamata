@@ -2,6 +2,9 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kazunari--kamata.github.io-0A66C2?logo=githubpages&logoColor=white)](https://kazunari-kamata.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-kazunari--kamata-181717?logo=github&logoColor=white)](https://github.com/kazunari-kamata)
+[![Location](https://img.shields.io/badge/Location-Kanagawa%2C%20Japan-0969DA)](#)
+[![Same Time](https://img.shields.io/badge/Same%20time-UTC%2B09%3A00-0969DA)](#)
+[![OpenInfra ID](https://img.shields.io/badge/OpenInfra%20ID-kazunari.kamata-60A5FA)](https://id.openinfra.dev/kazunari.kamata)
 [![Infrastructure](https://img.shields.io/badge/Focus-Infrastructure%20Operation-2563EB)](#)
 [![DevOps](https://img.shields.io/badge/Focus-DevOps-0F766E)](#)
 [![EOL](https://img.shields.io/badge/Focus-EOL%20Planning-B45309)](#)
