@@ -8,10 +8,25 @@
 [![Internal IT](https://img.shields.io/badge/Focus-Internal%20IT-7C3AED)](#)
 [![Windows Ops](https://img.shields.io/badge/Focus-Windows%20Ops-0078D4)](#)
 [![Legacy Web](https://img.shields.io/badge/Focus-Legacy%20Web%20Ops-4F5B93)](#)
+[![Rust](https://img.shields.io/badge/Rust-go2rust--cli-dea584?logo=rust&logoColor=white)](https://github.com/kazunari-kamata/go2rust-cli)
 
 インフラ運用、EOL対応、基盤更改、クラウド移行、Windows端末運用、レガシーWebシステム保守、社内SE業務、運用改善に関する実務的なツール、検証記録、ドキュメントをまとめたプロフィールリポジトリです。
 
+## Rust Focus
+
+[![go2rust-cli top language](https://img.shields.io/github/languages/top/kazunari-kamata/go2rust-cli?label=go2rust-cli&logo=rust&logoColor=white&color=dea584)](https://github.com/kazunari-kamata/go2rust-cli)
+[![Rust code size](https://img.shields.io/github/languages/code-size/kazunari-kamata/go2rust-cli?label=Rust%20CLI%20codebase&color=0f766e)](https://github.com/kazunari-kamata/go2rust-cli)
+[![CI](https://github.com/kazunari-kamata/go2rust-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/kazunari-kamata/go2rust-cli/actions/workflows/ci.yml)
+
+`go2rust-cli` は Rust 製の CLI として、Go ソースを Rust の雛形へ変換するためのパーサー、IR、コード生成処理を実装しています。GitHub の Top Languages は公開リポジトリのコード量ベースで変動するため、Rust の取り組みはこのセクションとリポジトリピンで明示しています。
+
 ## Featured Projects
+
+### go2rust-cli
+
+[![go2rust-cli](https://github-readme-stats.vercel.app/api/pin/?username=kazunari-kamata&repo=go2rust-cli)](https://github.com/kazunari-kamata/go2rust-cli)
+
+Go ソースコードを Rust ソースコードの雛形へ変換する Rust 製 CLI です。完全変換ではなく、対応済み構文の初期変換と未対応構文の TODO コメント出力を目的にしています。
 
 ### Infra Lifecycle Portal
 
@@ -24,12 +39,6 @@
 [![internal-se-ops-kit](https://github-readme-stats.vercel.app/api/pin/?username=kazunari-kamata&repo=internal-se-ops-kit)](https://github.com/kazunari-kamata/internal-se-ops-kit)
 
 社内SE業務で発生しやすい入退社、アカウント管理、端末管理、インシデント対応、変更申請を整理するための運用テンプレート集です。
-
-### go2rust-cli
-
-[![go2rust-cli](https://github-readme-stats.vercel.app/api/pin/?username=kazunari-kamata&repo=go2rust-cli)](https://github.com/kazunari-kamata/go2rust-cli)
-
-Go ソースコードを Rust ソースコードの雛形へ変換する Rust 製 CLI です。完全変換ではなく、対応済み構文の初期変換と未対応構文の TODO コメント出力を目的にしています。
 
 ### go2rust-cli-samples
 
@@ -110,7 +119,7 @@ TypeScript、React、Vue、HTML/CSS、Markdown によるドキュメント整備
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazunari-kamata&show_icons=true&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kazunari-kamata&layout=compact&langs_count=8&custom_title=Top%20Languages)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kazunari-kamata&layout=compact&langs_count=12&hide=html,css&custom_title=Top%20Languages%20by%20Public%20Code%20Size)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kazunari-kamata)
 
