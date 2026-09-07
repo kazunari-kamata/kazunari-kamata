@@ -22,6 +22,12 @@
 
 Go ソースコードを Rust ソースコードの雛形へ変換する Rust 製 CLI です。完全変換ではなく、対応済み構文の初期変換と未対応構文の TODO コメント出力を目的にしています。
 
+### next-nuxt-learning-sample
+
+[![next-nuxt-learning-sample](https://img.shields.io/badge/Repository-next--nuxt--learning--sample-181717?logo=github&logoColor=white)](https://github.com/kazunari-kamata/next-nuxt-learning-sample)
+
+Next.js（React）と Nuxt（Vue）で同一の CRUD タスクアプリを比較する TypeScript 学習モノレポです。API・UI・テスト・デバッグの書き方に加え、TypeDoc、Playwright、GitHub Actions、ガントチャート、Scrum、Kanban を使ったプロジェクト管理の学習資料を含みます。
+
 ### Infra Lifecycle Portal
 
 [![Infra Lifecycle Portal](https://img.shields.io/badge/Repository-infra--lifecycle--portal-181717?logo=github&logoColor=white)](https://github.com/kazunari-kamata/infra-lifecycle-portal)
