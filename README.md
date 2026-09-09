@@ -11,22 +11,34 @@
 [![Internal IT](https://img.shields.io/badge/Focus-Internal%20IT-7C3AED)](#)
 [![Windows Ops](https://img.shields.io/badge/Focus-Windows%20Ops-0078D4)](#)
 [![Legacy Web](https://img.shields.io/badge/Focus-Legacy%20Web%20Ops-4F5B93)](#)
+[![Frontend](https://img.shields.io/badge/Focus-Frontend%20Development-0EA5E9)](#)
+[![Backend](https://img.shields.io/badge/Focus-Backend%20Development-16A34A)](#)
 
-インフラ運用、EOL対応、基盤更改、クラウド移行、Windows端末運用、レガシーWebシステム保守、社内SE業務、運用改善に関する実務的なツール、検証記録、ドキュメントをまとめたプロフィールリポジトリです。
+インフラ運用、EOL対応、基盤更改、クラウド移行、Windows端末運用、レガシーWebシステム保守、社内SE業務、運用改善に加え、フロントエンド／バックエンドのアプリケーション開発にも取り組んでいます。実務的なツール、検証記録、ドキュメントとともに、TypeScript・React・Vue・Node.js・Go・Rust を用いたコーディングの成果をまとめたプロフィールリポジトリです。
 
 ## Featured Projects
 
-### go2rust-cli
+### Application Development
+
+フロントエンドと API を含む Web アプリケーションから、Rust 製 CLI とその検証用サンプルまで、実装・テスト・ドキュメント整備を一貫して行っています。
+
+#### go2rust-cli
 
 [![go2rust-cli](https://img.shields.io/badge/Repository-go2rust--cli-181717?logo=github&logoColor=white)](https://github.com/kazunari-kamata/go2rust-cli)
 
 Go ソースコードを Rust ソースコードの雛形へ変換する Rust 製 CLI です。完全変換ではなく、対応済み構文の初期変換と未対応構文の TODO コメント出力を目的にしています。
 
-### next-nuxt-learning-sample
+#### go2rust-cli-samples
+
+[![go2rust-cli-samples](https://img.shields.io/badge/Repository-go2rust--cli--samples-181717?logo=github&logoColor=white)](https://github.com/kazunari-kamata/go2rust-cli-samples)
+
+`go2rust-cli` の変換入力として使う Go サンプル集です。対応済み・未対応の構文を小さなコードで検証し、CLI の変換結果を継続的に確認しています。
+
+#### next-nuxt-learning-sample
 
 [![next-nuxt-learning-sample](https://img.shields.io/badge/Repository-next--nuxt--learning--sample-181717?logo=github&logoColor=white)](https://github.com/kazunari-kamata/next-nuxt-learning-sample)
 
-Next.js（React）と Nuxt（Vue）で同一の CRUD タスクアプリを比較する TypeScript 学習モノレポです。API・UI・テスト・デバッグの書き方に加え、TypeDoc、Playwright、GitHub Actions、ガントチャート、Scrum、Kanban を使ったプロジェクト管理の学習資料を含みます。
+Next.js（React）と Nuxt（Vue）で同一の CRUD タスクアプリを比較する TypeScript 学習モノレポです。フロントエンド UI と Next Route Handler／Nuxt Nitro Handler によるバックエンド API を実装し、型検査、ユニットテスト、E2E テスト、デバッグ、CI まで扱っています。
 
 ### Infra Lifecycle Portal
 
@@ -39,12 +51,6 @@ Next.js（React）と Nuxt（Vue）で同一の CRUD タスクアプリを比較
 [![internal-se-ops-kit](https://img.shields.io/badge/Repository-internal--se--ops--kit-181717?logo=github&logoColor=white)](https://github.com/kazunari-kamata/internal-se-ops-kit)
 
 社内SE業務で発生しやすい入退社、アカウント管理、端末管理、インシデント対応、変更申請を整理するための運用テンプレート集です。
-
-### go2rust-cli-samples
-
-[![go2rust-cli-samples](https://img.shields.io/badge/Repository-go2rust--cli--samples-181717?logo=github&logoColor=white)](https://github.com/kazunari-kamata/go2rust-cli-samples)
-
-`go2rust-cli` の変換入力として使う Go サンプル集です。対応済み構文と未対応構文の出力を確認しやすい小さな Go ファイルを管理しています。
 
 ### Portfolio Site
 
@@ -77,6 +83,10 @@ AWS、Azure、Google Cloud、Docker、Kubernetes、Terraform、Ansible などを
 ![Backend Skills](https://skillicons.dev/icons?i=python,go,rust,nodejs,php,perl,postgres,mysql,sqlite)
 
 Python、Go、Rust、Node.js、PHP、Perl、シェルスクリプト、データベース、API 連携を用いた自動化や検証ツールを扱っています。
+
+### Application Development
+
+TypeScript／React／Vue による画面実装と、Next.js Route Handler／Nuxt Nitro Handler などを使った API 実装の両方に取り組んでいます。Rust 製 CLI の開発、Go の検証用コード作成、型検査・ユニットテスト・E2E テスト・CI を含め、設計から実装、検証、ドキュメント化まで対応します。
 
 ### Legacy Web / CMS Operations
 
@@ -114,6 +124,10 @@ TypeScript、React、Vue、HTML/CSS、Markdown によるドキュメント整備
 - 検証観点整理
 - Runbook整備
 - GitHub Actions による自動化
+- フロントエンド開発（TypeScript / React / Vue）
+- バックエンド API 開発（Next.js Route Handler / Nuxt Nitro Handler）
+- Rust / Go による CLI・検証コード開発
+- 型検査・ユニットテスト・E2E テスト
 
 ## GitHub Stats
 
