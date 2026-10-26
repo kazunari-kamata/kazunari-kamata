@@ -13,8 +13,9 @@
 [![Legacy Web](https://img.shields.io/badge/Focus-Legacy%20Web%20Ops-4F5B93)](#)
 [![Frontend](https://img.shields.io/badge/Focus-Frontend%20Development-0EA5E9)](#)
 [![Backend](https://img.shields.io/badge/Focus-Backend%20Development-16A34A)](#)
+[![Support](https://img.shields.io/badge/Focus-Technical%20Support-9333EA)](#)
 
-インフラ運用、EOL対応、基盤更改、クラウド移行、Windows端末運用、レガシーWebシステム保守、社内SE業務、運用改善に加え、フロントエンド／バックエンドのアプリケーション開発にも取り組んでいます。実務的なツール、検証記録、ドキュメントとともに、TypeScript・React・Vue・Node.js・Go・Rust を用いたコーディングの成果をまとめたプロフィールリポジトリです。
+インフラ運用、EOL対応、基盤更改、クラウド移行、Windows端末運用、レガシーWebシステム保守、社内SE業務、ユーザーサポート、運用改善に加え、フロントエンド／バックエンドのアプリケーション開発にも取り組んでいます。実務的なツール、検証記録、ドキュメントとともに、TypeScript・React・Vue・Node.js・Go・Rust を用いたコーディングの成果をまとめたプロフィールリポジトリです。
 
 ## Featured Projects
 
@@ -52,6 +53,24 @@ Next.js（React）と Nuxt（Vue）で同一の CRUD タスクアプリを比較
 
 社内SE業務で発生しやすい入退社、アカウント管理、端末管理、インシデント対応、変更申請を整理するための運用テンプレート集です。
 
+### Remote Rehabilitation System Support
+
+医療・福祉分野の在宅リハビリテーション支援システムの実証において、患者側／医療スタッフ側システムの環境構築と接続支援を担当しました。音声コミュニケーションを用いた遠隔リハビリテーションを、機器・ネットワークの運用面から支えました。
+
+![遠隔リハビリテーション支援システムの構成図](remote-rehabilitation-system.gif)
+
+病院と患者宅を PC ネットワークで接続し、在宅での訓練と遠隔での支援を行う実証に関わりました。
+
+### Community Platform Operations and Medical IT Support
+
+障害のある方・家族・福祉関係者・ボランティアをつなぐオンラインコミュニティのサイト運用を担当しました。会員サポート、ネットワーク／メール環境の運用、コンテンツ更新を通じて、サービスの継続的な利用を支援しました。
+
+あわせて医療機関に対し、PC とソフトウェアの設置、初期設定、保守、利用時の問い合わせ対応を実施しました。
+
+### Internet Service Provider Support
+
+インターネット接続サービスのプロバイダーにおいて、利用者のインターネット接続設定とトラブルシューティングを担当しました。不正アクセスの被害を受けた利用者には、状況確認、初期対応、アカウント・接続環境の復旧支援を行いました。
+
 ### Portfolio Site
 
 [![Portfolio Site](https://img.shields.io/badge/Repository-kazunari--kamata.github.io-181717?logo=github&logoColor=white)](https://github.com/kazunari-kamata/kazunari-kamata.github.io)
@@ -71,6 +90,16 @@ Linux / Unix 系 OS、Windows、ネットワーク、DNS、VPN、プロキシ、
 ![Windows Skills](https://skillicons.dev/icons?i=windows,powershell,azure)
 
 Windows 端末の基本運用、PowerShell / CMD による確認・自動化、winget / Chocolatey / Scoop などのパッケージ管理、WSL / Hyper-V まわりの検証、Intune / Entra ID を前提にした端末登録・権限整理、時刻同期や Sysprep を含む端末ライフサイクルの観点を扱っています。
+
+### Technical Support / Internal IT
+
+ユーザーからの問い合わせ対応、一次切り分け、インシデント対応、アカウント・端末に関する支援、手順書・ナレッジの整備に取り組んでいます。調査結果を関係者へ共有し、再発防止や運用改善につなげることを重視しています。
+
+遠隔リハビリテーションの実証では、患者側・医療スタッフ側の PC、周辺機器、ネットワーク接続を整備し、音声コミュニケーション環境の構築・接続支援を担当しました。
+
+オンラインコミュニティでは、サイトとコンテンツの運用、会員サポート、ネットワーク／メール環境の運用を担当しました。医療機関に対しては、PC・ソフトウェアの設置、初期設定、保守、問い合わせ対応を行いました。
+
+インターネット接続サービスでは、接続設定の支援、接続トラブルの切り分け、不正アクセス被害時の初期対応と復旧支援を担当しました。
 
 ### Cloud / Platform
 
@@ -120,6 +149,17 @@ TypeScript、React、Vue、HTML/CSS、Markdown によるドキュメント整備
 - ネットワーク / DNS / VPN
 - セキュリティ・認証まわり
 - 社内SE業務テンプレート
+- ユーザーサポート・問い合わせ対応
+- 障害一次切り分け・エスカレーション
+- アカウント・端末の利用支援
+- 手順書・ナレッジベース整備
+- 音声コミュニケーションを用いた遠隔支援環境の構築
+- 医療・福祉分野の実証システムにおける機器・ネットワーク支援
+- Webサイト運用・コンテンツ更新
+- 会員サポート・メール環境の運用
+- 医療機関向け PC・ソフトウェアの導入・保守
+- インターネット接続設定・接続トラブル対応
+- 不正アクセス被害時の初期対応・復旧支援
 - 運用改善
 - 検証観点整理
 - Runbook整備
