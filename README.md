@@ -65,6 +65,12 @@ PM・PMOが要件定義からプロジェクト終結までに使う、工程別
 
 QA・テスト業務向けのテンプレート集です。単体・結合・総合・受け入れテストの計画、テストケース、障害管理、品質報告、リリース判定に加え、MermaidによるQAライフサイクルとテストレベルのフローを含みます。
 
+### security-ops-kit
+
+[![security-ops-kit](https://img.shields.io/badge/Repository-security--ops--kit-181717?logo=github&logoColor=white)](https://github.com/kazunari-kamata/security-ops-kit)
+
+脆弱性診断・トリアージ、インシデント対応、再発防止、SLA/SLO、資産・特権アクセス・委託先評価をPDCAで運用するためのセキュリティテンプレート集です。
+
 ### Remote Rehabilitation System Support
 
 医療・福祉分野の在宅リハビリテーション支援システムの実証において、患者側／医療スタッフ側システムの環境構築と接続支援を担当しました。音声コミュニケーションを用いた遠隔リハビリテーションを、機器・ネットワークの運用面から支えました。
@@ -167,6 +173,8 @@ TypeScript、React、Vue、HTML/CSS、Markdown によるドキュメント整備
 - QA・テスト計画・テスト設計
 - 単体・結合・総合・受け入れテスト
 - 障害管理・品質報告・リリース品質判定
+- セキュリティ運用・脆弱性管理・インシデント対応
+- SLA / SLO・特権アクセスレビュー・セキュリティ演習
 - ユーザーサポート・問い合わせ対応
 - 障害一次切り分け・エスカレーション
 - アカウント・端末の利用支援
