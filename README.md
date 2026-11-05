@@ -41,35 +41,17 @@ Go ソースコードを Rust ソースコードの雛形へ変換する Rust �
 
 Next.js（React）と Nuxt（Vue）で同一の CRUD タスクアプリを比較する TypeScript 学習モノレポです。フロントエンド UI と Next Route Handler／Nuxt Nitro Handler によるバックエンド API を実装し、型検査、ユニットテスト、E2E テスト、デバッグ、CI まで扱っています。
 
+#### kVNC
+
+[![kVNC](https://img.shields.io/badge/Repository-kVNC-181717?logo=github&logoColor=white)](https://github.com/kazunari-kamata/kvnc)
+
+macOS、Windows、Linux 向けの Rust 製クロスプラットフォーム CLI VNC サーバーです。desktop capture、RFB 3.8、双方向 clipboard、設定ファイル、GitHub Actions による複数プラットフォーム向け artifact を提供します。
+
 ### Infra Lifecycle Portal
 
 [![Infra Lifecycle Portal](https://img.shields.io/badge/Repository-infra--lifecycle--portal-181717?logo=github&logoColor=white)](https://github.com/kazunari-kamata/infra-lifecycle-portal)
 
 インフラ資産のEOLリスク、移行優先度、検証観点、ロールバック手順を整理するための軽量なライフサイクル管理ツールです。
-
-### internal-se-ops-kit
-
-[![internal-se-ops-kit](https://img.shields.io/badge/Repository-internal--se--ops--kit-181717?logo=github&logoColor=white)](https://github.com/kazunari-kamata/internal-se-ops-kit)
-
-社内SE業務で発生しやすい入退社、アカウント管理、端末管理、インシデント対応、変更申請を整理するための運用テンプレート集です。
-
-### pm-pmo-ops-kit
-
-[![pm-pmo-ops-kit](https://img.shields.io/badge/Repository-pm--pmo--ops--kit-181717?logo=github&logoColor=white)](https://github.com/kazunari-kamata/pm-pmo-ops-kit)
-
-PM・PMOが要件定義からプロジェクト終結までに使う、工程別の文書・会議・管理台帳のテンプレート集です。工程ゲート、RAID・変更管理、意思決定、進捗報告に加え、Mermaidによるプロジェクトフローとガントチャートを含みます。
-
-### qa-ops-kit
-
-[![qa-ops-kit](https://img.shields.io/badge/Repository-qa--ops--kit-181717?logo=github&logoColor=white)](https://github.com/kazunari-kamata/qa-ops-kit)
-
-QA・テスト業務向けのテンプレート集です。単体・結合・総合・受け入れテストの計画、テストケース、障害管理、品質報告、リリース判定に加え、MermaidによるQAライフサイクルとテストレベルのフローを含みます。
-
-### security-ops-kit
-
-[![security-ops-kit](https://img.shields.io/badge/Repository-security--ops--kit-181717?logo=github&logoColor=white)](https://github.com/kazunari-kamata/security-ops-kit)
-
-脆弱性診断・トリアージ、インシデント対応、再発防止、SLA/SLO、資産・特権アクセス・委託先評価をPDCAで運用するためのセキュリティテンプレート集です。
 
 ### Remote Rehabilitation System Support
 
